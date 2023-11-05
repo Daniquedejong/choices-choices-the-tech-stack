@@ -1,6 +1,7 @@
 
 # Tech stack
 
+![image](https://github.com/Daniquedejong/choices-choices-the-tech-stack/assets/112856683/b899064d-f744-44ca-ac8e-d513891f618e)
 
 ## 📚 Inhoudsopgave
 
@@ -21,14 +22,11 @@ Deze website kan je als werknemer gebruiken om in- of uit te checken en dit kan 
 ## 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
 
 Lijst met gebruikte tools, technieken en communicatie middelen.
-Dit project is gemaakt met Node, Express, EJS, progressive enhancement.
+Dit project is gemaakt met Gatsby en contentful.
 
-Wat is Gatsby:
+Wat is Gatsby: Dit is een framework.
 
-Wat is Contentful:
-
-
-Progressive Enhancement:
+Wat is Contentful: Dit is een headless cms.
 
 
 <ul>
