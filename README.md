@@ -1,7 +1,9 @@
 
 # Tech stack
 
-![image](https://github.com/Daniquedejong/choices-choices-the-tech-stack/assets/112856683/b899064d-f744-44ca-ac8e-d513891f618e)
+<img src='https://github.com/Daniquedejong/choices-choices-the-tech-stack/assets/112856683/b899064d-f744-44ca-ac8e-d513891f618e' width=50%>
+
+Dit is een img van de eerste data die is ingeladen.
 
 ## 📚 Inhoudsopgave
 
